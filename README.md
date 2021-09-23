@@ -2,6 +2,6 @@
 
 1-Framework Laravel
 
-2-Framework Bootstrap
+2-Bootstrap
 
 3-MySQL
